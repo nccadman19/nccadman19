@@ -16,9 +16,11 @@ Follow me on
 
 ## Projects
 
-### Beau Belle Salon
+### [Beau Belle Salon](https://nccadman19.github.io/beau-belle/)
 
-A welsh nail salon looking to inspire and help customers choose a treatment type. Built with Bootstrap 4 and Javascript, EmailJS, progressive image loading and a quiz to help customers choose their treatment. 
+A welsh nail salon looking to inspire and help customers choose a treatment type. Built with Bootstrap 4, Javascript and EmailJS. This site includes progressive image loading and a quiz to help customers choose their treatment. 
+
+![Portfolio 1](/mockup-index.png)
 
 <!----- Links ----->
 

@@ -2,7 +2,7 @@
 
 My name is Nicole and I'm on my way to becoming a certified Full-Stack Software Developer. I have only made a few sites currently but I am hoping to be creating bigger and better ones as the months progress! 
 
-Follow me on 
+Follow me on [Linked-In](https://nccadman19.github.io/beau-belle/)
 
 ## Technologies & Tools 
 
@@ -15,12 +15,19 @@ Follow me on
 ![Dreamweaver][dream-shield]
 
 ## Projects
-
+### Project 2
 ### [Beau Belle Salon](https://nccadman19.github.io/beau-belle/)
 
 A welsh nail salon looking to inspire and help customers choose a treatment type. Built with Bootstrap 4, Javascript and EmailJS. This site includes progressive image loading and a quiz to help customers choose their treatment. 
 
-![Portfolio 1](/mockup-index.png)
+![Portfolio 2](/mockup-index.png)
+
+### Project 1
+### [Rebellion Allstars Cheer](https://nccadman19.github.io/rebellionallstarscheer/)
+
+A welsh cheerleading team looking to give information about the team and coaches. This site is also a way for users to get in contact with the team for media work or to join. Built with Bootstrap 4, Javascript and EmailJS.
+
+![Portfolio 1](/mockup-index-rebellion.jpeg)
 
 <!----- Links ----->
 

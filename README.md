@@ -2,7 +2,7 @@
 
 My name is Nicole, I have only made a few sites currently but I am hoping to be creating bigger and better ones as the months progress! 
 
-Follow me on [Linked-In](https://nccadman19.github.io/beau-belle/)
+Follow me on [Linked-In](https://www.linkedin.com/in/nicoleccadman/)
 
 ## Technologies & Tools 
 

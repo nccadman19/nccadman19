@@ -2,7 +2,8 @@
 
 My name is Nicole, I have only made a few sites currently as you can see below but I am set to finish this course in over a month. I'm hoping my last project will show my new skills and talents. 
 
-Follow me on [Linked-In](https://www.linkedin.com/in/nicoleccadman/)
+[![](https://img.shields.io/badge/-NicoleCadman-%231DA1F2??style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicoleccadman/)
+[![](https://img.shields.io/badge/-@nccadman19-%23181717?style=flat-square&logo=github)](https://github.com/nccadman19)
 
 ## Technologies & Tools 
 

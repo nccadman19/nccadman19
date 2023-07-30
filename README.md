@@ -18,6 +18,10 @@ Follow me on [Linked-In](https://www.linkedin.com/in/nicoleccadman/)
 
 ## Projects
 
+### Website 4
+
+This site is pending, I think in my last projects I was making the criteria my priority and not the users end viewing of the site. I am going to make a clothing company store with the user as the main priority in terms of the styling and use of the site. Wish me luck!!
+
 ### Website 3
 ### [Glam Files](https://glam-files.herokuapp.com/)
 

@@ -24,7 +24,6 @@ My name is Nicole, I have only made a few sites currently as you can see below b
 This site is pending, I think in my last projects I was making the criteria my priority and not the users end viewing of the site. I am going to make a clothing company store with the user as the main priority in terms of the styling and use of the site. Wish me luck!!
 
 ### Website 3
-### [Glam Files](https://glam-files.herokuapp.com/)
 
 This is a fully responsive website that was designed mobile-first as this is the most likely way it will be viewed. This website uses the Materialize framework for beauticians to store client data that they would normally have in their notes app on their phones. Pages are rerouted if a user is/isn't logged into the site. 
 

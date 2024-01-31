@@ -20,11 +20,11 @@ My name is Nicole, I have only made a few sites currently as you can see below b
 ## Projects
 
 ### Website 4
-![Southville Sporting Club Website](https://southville-sporting-club-ed7d11c9dd6e.herokuapp.com)
+#### [Southville Sporting Club Website](https://southville-sporting-club-ed7d11c9dd6e.herokuapp.com)
 
 This site is pending, I think in my last projects I was making the criteria my priority and not the users end viewing of the site. I am going to make a clothing company store with the user as the main priority in terms of the styling and use of the site. Wish me luck!!
 
-![Southville Sporting Club](/initial-mockup-southville.webp)
+![Southville Sporting Club](/initial-mockup.png)
 
 ### Website 3
 
@@ -33,7 +33,7 @@ This is a fully responsive website that was designed mobile-first as this is the
 ![Portfolio 3](/mockup-clients.png)
 
 ### Website 2
-### [Beau Belle Salon](https://nccadman19.github.io/beau-belle/)
+#### [Beau Belle Salon](https://nccadman19.github.io/beau-belle/)
 
 A welsh nail salon looking to inspire and help customers choose a treatment type. Built with Bootstrap 4, Javascript and EmailJS. This site includes progressive image loading and a quiz to help customers choose their treatment. 
 

@@ -1,7 +1,7 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=926AAD&height=100&section=header" alt="header"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C14E00&height=100&section=header" alt="header"/> 
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=926AAD&width=435&lines=Hello%2C+it's+Nicole+Cadman;Full+Stack+Developer" alt="Nicole Cadman Full Stack Developer"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=C14E00&width=435&lines=Hey+guys%2C+it's+Nicole;Full+Stack+Developer" alt="Nicole Cadman Full Stack Developer"/>
 </a>
 
 # 💫 About Me:
@@ -33,4 +33,4 @@
 
 ![Southville Sporting Club](/initial-mockup.png)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=926AAD&height=100&section=footer" alt="footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C14E00&height=100&section=footer" alt="footer"/>

@@ -29,7 +29,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=nccadman19&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## Projects
-#### [Southville Sporting Club Website](https://southville-sporting-club-ed7d11c9dd6e.herokuapp.com)
+#### [Southville Sporting Club Website](https://github.com/nccadman19/southville-sporting-club)
 
 ![Southville Sporting Club](/initial-mockup.png)
 
